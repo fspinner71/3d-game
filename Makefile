@@ -1,6 +1,6 @@
 BUILD_DIR = ./objs
 SRC_DIR = ./src
-LIBS_DIR = ./lib
+LIBS_DIR = ./libs
 INCLUDE_DIR = ./include
 
 CC = clang++
