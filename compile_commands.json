@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "Makefile",
+      "-I./include",
+      "-o",
+      "objs/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/fidgetspinner71/Projects/3d-game",
+    "file": "/home/fidgetspinner71/Projects/3d-game/src/main.cpp",
+    "output": "/home/fidgetspinner71/Projects/3d-game/objs/main.o"
+  }
+]
